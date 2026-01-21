@@ -52,7 +52,3 @@ chart.render('#chart-container');
 ## 项目状态
 
 ✅ 已完成并持续更新
-
-## 演示
-
-查看在线演示：[Demo Link]

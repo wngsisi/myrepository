@@ -26,7 +26,7 @@ import "./styles.css";
 const siteProps = {
   name: "代码开发者 (Code Developer)",
   title: "软件工程师 & 全栈开发者 (Software Engineer & Full Stack Developer)",
-  email: "developer@example.com",
+  email: "",
   gitHub: "wngsisi",
   instagram: "",
   linkedIn: "",
