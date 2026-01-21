@@ -1,17 +1,39 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526682619)
 
-# JavaScript Portfolio Site with GitHub Codespaces and Copilot
+# 我的代码库 (My Code Repository)
 
-> View these instructions in [Spanish](/translations/es/README.md) or [Portuguese](/translations/pt-BR/README.md)
+> 一个用于存储和展示我编写或寄存的代码项目的仓库
+> 
+> A repository for storing and showcasing code projects I've written or deposited
 
-_Create, customize and deploy your own portfolio website in minutes._ ✨
+## 🎯 项目简介 (Project Overview)
 
-In this template repository we have the development environment and base set and ready to go. So that you can immediately launch your [Codespace](https://github.com/features/codespaces/) environment and start customizing your site using [Copilot](https://copilot.github.com) to help you write code faster.
+这是一个个人代码库，用于收集、组织和展示我开发的各种代码项目。每个项目都包含详细的说明文档和使用示例。
 
-* **Who is this for?** __Anyone__ looking to create a portfolio site, learn web development, or test out Codespaces.
-* **How much experience do you need?** __Zero__. You decide how much you want to customize based on your experience, and time available.
-* **Tools needed:** _None_. No need to install anything! All you need is a web browser.
-* **Prerequisites:** _None_. This template includes your development environment and deployable web app for you to create your own site.
+This is a personal code repository for collecting, organizing, and showcasing various code projects I've developed. Each project includes detailed documentation and usage examples.
+
+## 📂 代码项目 (Code Projects)
+
+所有代码项目存储在 [`/code-projects`](/code-projects) 目录中。每个项目都有独立的文件夹和说明文档。
+
+All code projects are stored in the [`/code-projects`](/code-projects) directory. Each project has its own folder and documentation.
+
+### 当前项目列表 (Current Projects)
+
+1. **计算器应用** - 支持基本数学运算的简单计算器
+2. **待办事项管理器** - 功能完善的任务管理应用
+3. **数据可视化工具** - 强大的图表和数据展示库
+4. **天气 API 服务** - 提供实时天气数据的 RESTful API
+
+## 🌐 在线展示 (Online Portfolio)
+
+本仓库还包含一个在线作品集网站，用于更直观地展示这些项目。
+
+This repository also includes an online portfolio website for a more visual presentation of these projects.
+
+* **适用人群：** 开发者、程序员、编程学习者
+* **技术栈：** React.js, JavaScript, Node.js, 多种框架和库
+* **目的：** 代码管理、项目展示、知识分享
 
 ## About this portfolio template
 

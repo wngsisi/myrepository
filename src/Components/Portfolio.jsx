@@ -31,35 +31,35 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "计算器应用 (Calculator App) 🧮",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "一个简单实用的计算器应用，支持基本的数学运算。使用 JavaScript、HTML5 和 CSS3 开发，具有响应式设计和简洁的用户界面。",
+    url: "https://github.com/wngsisi/myrepository/tree/main/code-projects/calculator-app",
   },
   {
-    title: "Web Development for Beginners",
+    title: "待办事项管理器 (Todo List Manager) ✅",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "功能完善的任务管理应用，支持任务的添加、编辑、删除和分类。采用 React.js 开发，提供本地存储和智能提醒功能。",
+    url: "https://github.com/wngsisi/myrepository/tree/main/code-projects/todo-list-manager",
   },
   {
-    title: "My Resume Site",
+    title: "数据可视化工具 (Data Visualization) 📊",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "强大的数据可视化库，支持多种图表类型。使用 D3.js 和 Chart.js，可将复杂数据转换为直观美观的图表，支持实时更新和主题定制。",
+    url: "https://github.com/wngsisi/myrepository/tree/main/code-projects/data-visualization",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "天气 API 服务 (Weather API) 🌤️",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "RESTful API 服务，提供实时天气数据和天气预报。基于 Node.js 和 Express.js，支持全球城市查询，快速响应，已部署上线。",
+    url: "https://github.com/wngsisi/myrepository/tree/main/code-projects/weather-api",
   },
 ];
 
 const Portfolio = () => {
   return (
     <section className="padding" id="portfolio">
-      <h2 style={{ textAlign: "center" }}>Portfolio</h2>
+      <h2 style={{ textAlign: "center" }}>我的代码项目 (My Code Projects)</h2>
       <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img

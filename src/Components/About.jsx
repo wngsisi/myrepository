@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "我是一名热爱编程的开发者，专注于创建实用和创新的软件解决方案。这个代码库收集了我的各种项目和代码作品。";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "JavaScript / TypeScript",
+  "React.js / Node.js",
+  "数据可视化 (Data Visualization)",
+  "API 开发 (API Development)",
+  "Web 应用开发 (Web Development)",
+  "代码架构设计 (Software Architecture)",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "我热衷于通过代码解决实际问题，并相信优秀的软件应该是简洁、高效和易于维护的。这个代码库是我学习和成长的记录，也是我与社区分享知识的平台。每个项目都代表了我对编程的热情和对技术的不断探索。";
 
 const About = () => {
   return (
@@ -60,7 +60,7 @@ const About = () => {
           textAlign: "center",
         }}
       >
-        <h2>About Myself</h2>
+        <h2>关于我 (About Me)</h2>
         <p className="large">{description}</p>
         <hr />
         <ul
